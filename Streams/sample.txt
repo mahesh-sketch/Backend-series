@@ -13,7 +13,7 @@
  //MFPMSGDS DD SYSOUT=*                                                          
  //SYSOUT   DD SYSOUT=*                                                          
  //SYSIN    DD *                                                                 
- //*                                                                             
+ //*                                                                            
  //SYSIN DD *                                                            JES3GEN 
   IAT6140 JOB ORIGIN FROM GROUP=ANYLOCAL, DSP=IR , DEVICE=INTRDR  , 0000         
   23:34:42 ---- IAT6853 THE CURRENT DATE IS TUESDAY,   06 JUN 2023 ----          
