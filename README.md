@@ -1,6 +1,6 @@
-# Backend Series Repository 🚀
+# Backend Series 🚀
 
-Welcome to the Backend Series repository! 🎉 This comprehensive collection covers a wide array of backend development topics, helping you master essential concepts and tools. Each module is designed to provide in-depth insights and practical examples for a well-rounded learning experience.
+Welcome to the Backend Series! 🎉 This comprehensive collection covers a wide array of backend development topics, helping you master essential concepts and tools. Each module is designed to provide in-depth insights and practical examples for a well-rounded learning experience.
 
 ## Table of Contents
 
